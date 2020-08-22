@@ -16,6 +16,9 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@yerkopalma/morsee": "^1.0.6",
+    "hammerjs": "^2.0.8",
+    "morsee": "^1.0.6",
     "sirv-cli": "^1.0.0"
   }
 }
